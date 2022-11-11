@@ -1,0 +1,10 @@
+We will see one example below.
+
+A = 'Hello"       # Assigning to A
+A                 # Call A
+'Hello"           # Prints Output with Quotes.    
+
+print(A)          # Calls A using print
+Hello             # Prints Output without Quotes.
+
+NOTE : Difference of writing A & print(A) is Quotes will get dissappear using print.
