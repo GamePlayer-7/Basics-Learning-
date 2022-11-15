@@ -1,0 +1,7 @@
+Python Dictionary Methods :
+
+* clear()	    - Removes all items from the dictionary.
+* copy()	    - Returns a shallow copy of the dictionary.
+* get(key[,d])	- Returns the value of the key. If the key does not exist, returns d (defaults to None).
+* pop(key[,d])	- Removes the item with the key and returns its value or d if key is not found.
+* popitem()	    - Removes and returns an arbitrary item (key, value). Raises KeyError if the dictionary is empty.
