@@ -9,3 +9,8 @@ else:
 
 if a or b or c:
     print("Atleast one number has boolean value as True")
+
+# Below is the Output :
+
+True
+Atleast one number has boolean value as True
