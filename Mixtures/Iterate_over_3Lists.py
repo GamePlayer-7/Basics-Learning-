@@ -1,4 +1,4 @@
-import itertools  
+import itertools  # Itertool is a module that provides various functions that work on iterators to produce complex iterators.
 
 num = [1, 2, 3] 
 
